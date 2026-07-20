@@ -10,6 +10,7 @@ Misinformation spreads rapidly across digital platforms, making automated fake n
 
 Designed for **academic purposes**, this project demonstrates how a regression algorithm can be adapted for binary classification tasks.
 
+visit on this:- https://anshika152330-ibm-project-app-kfqhyh.streamlit.app/
 ---
 
 ## 🎯 Objectives
